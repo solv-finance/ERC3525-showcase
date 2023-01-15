@@ -8,8 +8,10 @@ import "@solvprotocol/erc-3525/ERC3525.sol";
 // import "hardhat/console.sol";
 
 contract TestERC3525 is ERC3525 {
-     using Strings for uint256;
+    using Strings for uint256;
 
+    constructor() ERC3525("Test ERC3525 Token", "TestERC3525", 18) {
+    }
     function mint(address to_, uint256 slot_, uint256 amount_) external {
         _mint(to_, slot_, amount_);
     }
