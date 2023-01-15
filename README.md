@@ -60,8 +60,8 @@ These steps are the same as the ERC-721 Showcase.
 
 Find us on following:
 
-1. [Telegram](https://t.me/EIP3525_DEV)
+[Telegram](https://t.me/EIP3525_DEV)
 
-2. [Twitter](https://twitter.com/SFTLabsHQ)
+[Twitter](https://twitter.com/SFTLabsHQ)
 
-3. [Website](https://sftlabs.io/)
+[Website](https://sftlabs.io/)
