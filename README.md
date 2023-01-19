@@ -1,5 +1,7 @@
 # ERC3525 Deployment Tutorial
 
+English | [简体中文](./README-zh_CN.md)
+
 [ERC-3525](https://eips.ethereum.org/EIPS/eip-3525), proposed by [Solv Protocol](https://solv.finance), is a standard for the Semi-Fungible Token (or SFT) approved by the Ethereum community.
 
 It defines a new type of digital asset characterized by the following key features:
