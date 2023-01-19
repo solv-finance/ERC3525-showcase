@@ -1,5 +1,7 @@
 # ERC3525 开发部署指南
 
+[English](./README.md) | 简体中文
+
 [ERC-3525](https://eips.ethereum.org/EIPS/eip-3525) 标准是以太坊社区批准通过的半匀质化通证（Semifungible Token, 亦称为半同质化通证，简称 SFT）标准，由 [Solv Protocol](https://solv.finance) 提出。
 
 ERC-3525 标准定义了一类新型的数字资产，具有以下突出优势：
